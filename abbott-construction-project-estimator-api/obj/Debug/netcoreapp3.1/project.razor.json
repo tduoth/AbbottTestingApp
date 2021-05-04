@@ -1,0 +1,16 @@
+{
+  "FilePath": "/Users/thanhduong/schoolWork/abbott-construction-project-estimator-api/ProjectEstimator.Api.csproj",
+  "Configuration": {
+    "ConfigurationName": "MVC-3.0",
+    "LanguageVersion": "3.0",
+    "Extensions": [
+      {
+        "ExtensionName": "MVC-3.0"
+      }
+    ]
+  },
+  "ProjectWorkspaceState": null,
+  "RootNamespace": "ProjectEstimator.Api",
+  "Documents": [],
+  "SerializationFormat": "0.2"
+}
